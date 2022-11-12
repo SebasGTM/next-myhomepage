@@ -2,6 +2,7 @@
   "name": "next-blog",
   "scripts": {
     "build": "next build && next export",
+    "export": "next export",
     "dev": "next dev",
     "start": "next start"
   },
