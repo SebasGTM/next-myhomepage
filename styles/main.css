@@ -1,0 +1,127 @@
+:root {
+  font-size:17px;
+  box-sizing:border-box;
+  --link-red:#8a1c1c;
+  --link-red-alt:#a84747;
+  --headline-font:"Amiri",Georgia,"Times New Roman",serif;
+  --body-font:"Lato",Arial,sans-serif;
+  --mono-font:"Ubuntu Mono",monospace;
+  --red:#912121;
+  --text-color:#27252e;
+  --banner-width:120px;
+  --side-margin:2rem;
+  --wrapper-padding:3rem;
+  --border-color:#e0dbd7;
+  --page-background:#FFF;
+  --body-background:#f2f2f0;
+  --shadow-color:rgba(48,43,43,0.375);
+  --border-color-bright:#f5f5f5;
+  --box-bg-color:#fafafa;
+  --box-border-color:#e6e2df;
+  --base-size:1.2rem
+ }
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.8;
+}
+
+.wrapper {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+main {
+	background: var(--page-background);
+	box-shadow: 0 0 6rem -0.5rem var(--shadow-color);
+	padding: 4rem var(--wrapper-padding) 3.5rem var(--wrapper-padding);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+h2,
+h3 {
+ font-family:var(--headline-font);
+ font-weight:normal;
+ line-height:1.3;
+ margin:1.5em 0 1em 0
+}
+h4,
+h5 {
+ font-family:var(--body-font);
+ font-weight:bold
+}
+
+.profilepic {
+	float: right;
+	box-shadow: 0 0 1.5rem var(--shadow-color);
+	margin: 1em 0 1rem 3rem;
+	max-width: 30%;
+	min-width: 220px;
+	border-radius: 60%;
+	shape-outside: circle(60%);
+}
+
+.pageHeader {
+	font-family: var(--headline-font);
+	background: var(--text-color);
+	box-shadow: 0 .5rem 2rem var(--shadow-color);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1;
+	padding: 0 var(--side-margin);
+}
+
+a:focus, a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	flex: 1 1 0;
+	font-size: 1.4rem;
+	border-right: 1px solid rgba(255,255,255,0.2);
+	margin: 0;
+	padding: 0;
+}
+
+nav a {
+	color: white !important;
+	border-bottom: none !important;
+	text-align: center;
+	display: block;
+	padding: .75rem 0;
+	font-weight: normal;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav > ul > li a:hover {
+  background-color: #111;
+}
+
+
+article .postimg {
+	padding: 4px;
+	background: #f2f2f2;
+	border: 1px solid #ccc;
+	margin-right: 18px;
+	margin-bottom: 18px;
+}
