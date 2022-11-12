@@ -1,8 +1,7 @@
 {
   "name": "next-blog",
-  "private": true,
   "scripts": {
-    "build": "next build",
+    "build": "next build && next export",
     "dev": "next dev",
     "start": "next start"
   },
@@ -12,10 +11,5 @@
     "next": "^13.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "browser": {
-    "fs": false,
-    "path": false,
-    "os": false
   }
 }
