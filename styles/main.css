@@ -28,6 +28,23 @@ body {
   line-height: 1.8;
 }
 
+.article-meta {
+	font-size: 14px;
+	color: #999;
+}
+.article-title {
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 8px;
+	font-weight: bold;
+	border-bottom: solid 1px #2f2f2f;
+	padding-bottom: 10px;
+	word-wrap: break-word;
+}
+.article-head {
+	margin: 0 0 25px 0;
+}
+
 .wrapper {
 	max-width: 1000px;
 	margin: 0 auto;
@@ -117,6 +134,15 @@ nav > ul > li a:hover {
   background-color: #111;
 }
 
+article {
+	margin: 0 0 80px 0;
+}
+
+
+img[src*="#postimgtype"] {
+	max-width:600px;
+	max-height:480px;
+ }
 
 article .postimg {
 	padding: 4px;
@@ -124,4 +150,33 @@ article .postimg {
 	border: 1px solid #ccc;
 	margin-right: 18px;
 	margin-bottom: 18px;
+}
+
+.contact {
+	font-size: 2em; margin: 0.5em 0;
+}
+
+.contact img {
+	width: 1em;
+	position: relative;
+	top: .25em;
+	margin-right: .25em;
+}
+
+.links {
+	font-size: 2em; margin: 0.5em 0;
+}
+.links img {
+	position: relative;
+	width: 70px;
+	height:auto;
+	top: .25em;
+	margin-right: .25em;
+	margin-left: 0.6em;
+	font-size: 3em;
+	cursor:pointer;
+}
+
+.linked-icon:hover {
+	filter: invert(65%) sepia(70%) saturate(4471%) hue-rotate(158deg) brightness(90%) contrast(101%);
 }

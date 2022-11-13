@@ -23,10 +23,18 @@ export default function BlogPage({ posts }) {
         {posts.map((post) => (
             <article key={post.slug}>
 
+                    <div class="article-head">
+                      <Link href={`/posts/${post.slug}`}>
+                            <h2 class="article-title">{post.title}</h2>
+                      </Link>    
+                      <div class="article-meta">{post.date}</div>
+                    </div>
                 <Link href={`/posts/${post.slug}`}>
-                    <div class="art-head"><h2>{post.date} — {post.title}</h2></div>
                     <div><img src={post.previmg} class="postimg" width="auto" height="400px" placeholder="empty" objectFit='contain' /></div>
-                    <div>{post.prevtext}</div>
+                </Link>
+                <div>{post.prevtext}</div> 
+                <Link href={`/posts/${post.slug}`}>
+                    <div>read more →</div>
                 </Link>
             </article>
           ))}
