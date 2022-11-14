@@ -18,7 +18,9 @@
   --border-color-bright:#f5f5f5;
   --box-bg-color:#fafafa;
   --box-border-color:#e6e2df;
-  --base-size:1.2rem
+  --base-size:1.2rem;
+  --highlight-color-l:#00a4d6;
+  --highlight-color-d:#037b9f;
  }
 
 body {
@@ -54,11 +56,6 @@ main {
 	background: var(--page-background);
 	box-shadow: 0 0 6rem -0.5rem var(--shadow-color);
 	padding: 4rem var(--wrapper-padding) 3.5rem var(--wrapper-padding);
-}
-
-a {
-  color: var(--link-color);
-  text-decoration: none;
 }
 
 h2,
@@ -100,6 +97,13 @@ a:focus, a:hover {
   text-decoration: underline;
 }
 
+a.article-title {
+	color:inherit;
+}
+a.article-title:visited {
+	color:inherit;
+}
+
 nav {
   max-width: 1000px;
   margin: 0 auto;
@@ -128,6 +132,30 @@ nav a {
 	padding: .75rem 0;
 	font-weight: normal;
 }
+nav a {
+	color:var(--page-background) !important;
+	border-bottom:none !important;
+	text-align:center;
+	display:block;
+	padding:.75rem 0;
+	font-weight:normal
+}
+nav a:link,
+nav a:visited {
+	text-shadow:0 0 .75em #000;
+}
+nav a:hover,
+nav a:active {
+	text-shadow:0 0 .75em var(--page-background);
+	text-decoration:none;
+}
+nav li.active a {
+	background:#000;
+	color:#FFF;
+}
+nav a:focus {
+	text-decoration:underline;
+}
 
 /* Change the link color to #111 (black) on hover */
 nav > ul > li a:hover {
@@ -138,6 +166,9 @@ article {
 	margin: 0 0 80px 0;
 }
 
+a {
+	text-decoration:none;
+}
 
 img[src*="#postimgtype"] {
 	max-width:600px;
@@ -179,4 +210,24 @@ article .postimg {
 
 .linked-icon:hover {
 	filter: invert(65%) sepia(70%) saturate(4471%) hue-rotate(158deg) brightness(90%) contrast(101%);
+}
+
+a.mailto {
+	color:inherit;
+}
+
+a.mailto:hover {
+	text-decoration: none;
+	color:var(--highlight-color-l);
+}
+
+.article-more {
+	display:inline-block;
+	font-style: italic;
+	margin-top: 20px;
+	color:var(--highlight-color-l);
+}
+.article-more:hover {
+	text-decoration: none;
+	color:var(--highlight-color-d);
 }

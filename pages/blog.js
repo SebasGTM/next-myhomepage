@@ -24,17 +24,17 @@ export default function BlogPage({ posts }) {
             <article key={post.slug}>
 
                     <div class="article-head">
-                      <Link href={`/posts/${post.slug}`}>
+                      <Link class="article-title" href={`/posts/${post.slug}`}>
                             <h2 class="article-title">{post.title}</h2>
                       </Link>    
                       <div class="article-meta">{post.date}</div>
                     </div>
-                <Link href={`/posts/${post.slug}`}>
+                <Link class="nodeco" href={`/posts/${post.slug}`}>
                     <div><img src={post.previmg} class="postimg" width="auto" height="400px" placeholder="empty" objectFit='contain' /></div>
                 </Link>
                 <div>{post.prevtext}</div> 
-                <Link href={`/posts/${post.slug}`}>
-                    <div>read more →</div>
+                <Link class="article-more" href={`/posts/${post.slug}`}>
+                  read more →
                 </Link>
             </article>
           ))}

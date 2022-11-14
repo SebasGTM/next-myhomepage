@@ -1,6 +1,7 @@
 ---
 title: "Japanese sweets"
 date: "2021-04-23"
+place: "Japan"
 prevtext: "Japanese sweets..."
 ---
 When thinking about japanese cuisine, sweets and deserts might not be the first thing that comes to mind. 
