@@ -1,5 +1,5 @@
 ---
-date: "2021-02-20"
+date: "2022-10-12"
 title: "How I learn Japanese"
 place: ""
 prevtext: "After 3 years of learning the language, maybe i give some hints about how I started..."
@@ -56,7 +56,7 @@ My solution is Anki Flashcards.
 
 Anki is a flashcard software/environment for all major platforms including mobile.
 
-Download it here: [Anki Web](https://apps.ankiweb.net/) 
+Download it here: [Anki Web](https://apps.ankiweb.net/)
 And you can use it on your PC, table or smartphone to create decks of cards with learn with. It's open source and without ads!
 It also offers a free synchronization service for all your devices, so your process will be saved and you can continue from another device.
 

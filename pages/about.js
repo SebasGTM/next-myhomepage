@@ -7,7 +7,6 @@ import cvIcon from "../content/images/cv-icon.svg"
 import gitIcon from "../content/images/Octicons-mark-github.svg"
 
 
-
 export default function AboutPage() {
   return (
     <>

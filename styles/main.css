@@ -231,3 +231,20 @@ a.mailto:hover {
 	text-decoration: none;
 	color:var(--highlight-color-d);
 }
+
+.hide-paging,
+.page-number {
+	display:none;
+}
+
+
+.newer-posts {
+	float:left;
+}
+.older-posts {
+	float:right
+}
+
+.post-navigation {
+	height: 30px;
+}

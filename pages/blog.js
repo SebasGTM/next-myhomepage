@@ -5,24 +5,25 @@ import { getPosts } from '../lib/posts';
 
 
 export async function getStaticProps() {
-    const posts = await getPosts();
-    return {
-      props: { posts },
-    };
+  let page = 1;
+  const postData = await getPosts(page);
+
+  return {
+    props: { postData },
+  };
 }
 
 
-export default function BlogPage({ posts }) {
-    console.log(posts);
+export default function BlogPage({ postData }) {
+    console.log(postData);
   return (
     <>
       <Head>
         <title>Sebastian H | Blog</title>
       </Head>
       <main>
-        {posts.map((post) => (
+        {postData.posts.map((post) => (
             <article key={post.slug}>
-
                     <div class="article-head">
                       <Link class="article-title" href={`/posts/${post.slug}`}>
                             <h2 class="article-title">{post.title}</h2>
@@ -38,6 +39,14 @@ export default function BlogPage({ posts }) {
                 </Link>
             </article>
           ))}
+          <div class="post-navigation">
+            <span class="page-number">Page {postData.pagnation.page}</span>
+            {
+              postData.pagnation.page > 1 &&
+              <a class="newer-posts" href={postData.pagnation.prev}>← newer posts</a>
+            }
+            <a class="older-posts" href={postData.pagnation.next}>older posts →</a>
+          </div>
       </main>
     </>
   );

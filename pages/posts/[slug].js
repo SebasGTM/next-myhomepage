@@ -27,8 +27,8 @@ function PostPage({ post }) {
         <title>{`${post.title} - My Blog`}</title>
       </Head>
       <main>
-        <p>{post.date}</p>
-        <h1>{post.title}</h1>
+        <h1 class="article-title">{post.title}</h1>
+        <div class="article-meta">{post.date}</div>
         <article dangerouslySetInnerHTML={{ __html: post.body }} />
       </main>
     </>
