@@ -32,6 +32,7 @@ export default function BlogPagePage({ postData }) {
       <Head>
         <title>Sebastian H | Blog</title>
       </Head>
+      <a name="top"></a>
       <main>
         {postData.posts.map((post) => (
             <article key={post.slug}>
@@ -59,6 +60,7 @@ export default function BlogPagePage({ postData }) {
             <a class="older-posts" href={postData.pagnation.next}>older posts →</a>
           </div>
       </main>
+      <div class="blog-footer"><a href="#top">↑ Back to top ↑</a></div>
     </>
   );
 }

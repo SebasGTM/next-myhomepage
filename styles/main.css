@@ -251,3 +251,18 @@ a.mailto:hover {
 .post-navigation {
 	height: 30px;
 }
+
+.blog-footer {
+	margin-bottom:30px;
+	text-align: center;
+	margin-top:30px;
+	color:var(--highlight-color-d);
+}
+.blog-footer a {  
+	font-weight: bold;
+	border-bottom-width: .075em;
+	border-bottom-style: solid;
+}
+.blog-footer a:visited {  
+	color: inherit;
+}
