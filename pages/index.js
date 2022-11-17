@@ -17,7 +17,7 @@ export default function HomePage() {
         </h2>
         <p class="large">
         This Website is just a little project to test out different webtechnologies and hosting services while also sharing some of thoughts and experiences with family, friends and colleagues.
-        The website is still in the construction phase and a lot of articles are in a migration process from my previous webpage and a different format. Take a look around if you want. More content will soon follow.
+        The website is still in the construction phase and a lot of articles are in a migration process. Take a look around if you want. More content will soon follow.
         </p>
         <br />
       </main>

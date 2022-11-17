@@ -38,7 +38,7 @@ After you mesmerized the Kana there are two next steps that should be worked on 
 Some useful websites and tools that make your learning adventure easier.
 
  * [Jisho](https://jisho.org/) | Online japanese dictionary.
- * [Google Translate](https://translate.google.com/) | Google Translate. It's not the best translator, and you shouldn't trust it too much, but it lets you tranlate longer sentences and even reads them to you. Understands quite few idioms.
+ * [Google Translate](https://translate.google.com/) | Google Translate. It's not the best translator, and you shouldn't trust it too much, but it lets you translate longer sentences and even reads them to you. Understands quite few idioms.
  * [10Ten](https://addons.mozilla.org/en-US/firefox/addon/10ten-ja-reader/) | Browser Add-on for Firefox and Chrome. Awesome tool. Will show a popup over japanese text with a translation. Great for japanese websites.![Title image](/static/post-media/how-i-learn-japanese/10ten_example.jpg#postimgtype)
     
 
