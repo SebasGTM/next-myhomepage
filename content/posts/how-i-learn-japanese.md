@@ -15,9 +15,7 @@ This is an ongoing article, and I will expand it as I increase my knowledge of t
 ## The start
 
 The first question is always: how do I start? where do I start? What is important?
-
 If you are like me, and you don't enter any courses and want to learn at your own pace with online resources, I might be able to help you out a bit.
-From what I've learned, and also from others that learned the language and are much 
 
 The basic start is very simple, learn the japanese alphabet: Hiragana and Katakana
 and basic grammar. Even if you want to focus primarily on the spoken language, you should have the alphabet down. 
