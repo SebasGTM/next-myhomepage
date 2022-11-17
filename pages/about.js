@@ -28,3 +28,5 @@ export default function AboutPage() {
     </>
   );
 }
+
+// <Link href={"/resume"}><Image src={cvIcon} class="linked-icon" alt="Resume" placeholder="empty" /></Link>
