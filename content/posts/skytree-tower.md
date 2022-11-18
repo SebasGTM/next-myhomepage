@@ -9,12 +9,12 @@ prevtext: "Second highest building in the world, biggest in Japan.."
 
 
 With 634 meters is the Tokyo Skytree (東京スカイツリー) the highest television tower and one of the greatest tourist attractions in Tokyo.
-THe highlight are the two observation decks (at 350 and 450 meters), from which you can see as far as Mount Fuji.
+The highlight are the two observation decks (at 350 and 450 meters), from which you can see as far as Mount Fuji.
 
 
 ![Alt text](/static/post-media/skytree-tower/20191023_181708.JPG#postimgtype)
 
-Towards evening, the Skytree is illuminated in three different colors and is also a unique motif itself. At it's foot there is an aquarium, numerous shopping centers and restaurants. 
+Towards evening, the Skytree is illuminated in three different colors and is also a unique motif itself. At its foot there is an aquarium, numerous shopping centers and restaurants. 
 From the 4th floor there are four elevators with a speed of 600 m/min. 
 
 First stop is the middle deck.

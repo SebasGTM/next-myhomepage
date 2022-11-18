@@ -8,13 +8,12 @@ prevtext: "After 3 years of learning the language, maybe i give some hints about
 ![Title image](/static/post-media/how-i-learn-japanese/textbook.png#postimgtype)
 
 Here I want to give some tips and insides in how I started to learn the language, how it's going, and what resources I use.
-I'm still far from were I wanted to be 
-This is an ongoing article, and I will expand it as I increase my knowledge of the language. 
+This is an ongoing article, so I will expand it as I increase my knowledge of the language. 
 
 
 ## The start
 
-The first question is always: how do I start? where do I start? What is important?
+The first question is always: How do I start? Where do I start? What is important?
 If you are like me, and you don't enter any courses and want to learn at your own pace with online resources, I might be able to help you out a bit.
 
 The basic start is very simple, learn the japanese alphabet: Hiragana and Katakana

@@ -6,8 +6,8 @@ prevtext: "A small holy island with a lot to discover..."
 ---
 
 This small holy island can only be reached by ferry. Here you can fond a lot of nature, long mountain paths,
-free roaming deer and a big famous torii gate, which at high tide seems to float on the water. Unfortunate just as i was visiting,
-the gate was under restoration :-(, so i will have to take a picture next time.
+free roaming deer and a big famous torii gate, which at high tide seems to float on the water. Unfortunate just as I was visiting,
+the gate was under restoration :-( so I will have to take a picture next time.
 
 
 The ferry ride:
