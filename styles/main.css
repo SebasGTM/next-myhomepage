@@ -187,18 +187,18 @@ article .postimg {
 }
 
 .contact {
-	font-size: 2em; margin: 0.5em 0;
+	font-size: 1.8em; margin: 0.5em 0;
 }
 
 .contact img {
 	width: 1em;
 	position: relative;
-	top: .25em;
+	top: .32em;
 	margin-right: .25em;
 }
 
 .links {
-	font-size: 2em; margin: 0.5em 0;
+	font-size: 1.8em; margin: 0.5em 0;
 }
 .links img {
 	position: relative;
@@ -228,6 +228,7 @@ a.mailto:hover {
 	display:inline-block;
 	font-style: italic;
 	margin-top: 20px;
+	margin-left: 20px;
 	color:var(--highlight-color-l);
 }
 .article-more:hover {

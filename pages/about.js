@@ -21,7 +21,6 @@ export default function AboutPage() {
         <div class="links">
           <h3>More</h3>
           <Link href={"https://www.linkedin.com/in/sebastian-heckmann/"}><Image src={linkedIcon} class="linked-icon" alt="LinkedIn" placeholder="empty" /></Link>
-          <Link href={"/resume"}><Image src={cvIcon} class="linked-icon" alt="Resume" placeholder="empty" /></Link>
           <Link href={""}><Image src={gitIcon} class="linked-icon" alt="Github" placeholder="empty" /></Link>
         </div>
       </main>
