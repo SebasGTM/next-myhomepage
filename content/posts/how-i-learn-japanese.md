@@ -22,10 +22,10 @@ Romaji (Japanese in the latin alphabet) is not a good representation for the lan
 
 On PC I would suggest using a simple webpage like this one [Kana Pro](https://kana.pro/) or a similar app for your smartphone. This is probably the shortest but a very important step,
 don't stop until read Kana in an acceptable speed. But it also should take more than a few days/weeks.
-To speed up the process you can use a mnemonic chart. It did wonders for me and there are lot different version on the web.
+To speed up the process you can use a mnemonic chart. It did wonders for me and there are lot of different versions on the web.
 Here an example: [Mnemonic Chart](https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png)
 
-After you mesmerized the Kana there are two next steps that should be worked on at the same time.
+After you mesmerized the Kana, there are two next steps that should be worked on at the same time.
 
 **Basic Vocabulary** and **Basic Grammar**
 
