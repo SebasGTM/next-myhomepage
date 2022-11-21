@@ -14,9 +14,12 @@ export default function AboutPage() {
         <title>Sebastian H | About</title>
       </Head>
       <main>
+        <div>
+          This website was create using React/NextJS and is being hosted on AWS.
+        </div>
         <div class="contact">
           <h3>Contact</h3>        
-          <a class="mailto" href="mailto:sebastian.heckmann@outlook.com"><Image src={mailIcon} class="mailicon" alt="Picture of the author" width={40} placeholder="empty" />sebastian<wbr />.heckmann@outlook.com</a>
+          <a class="mailto" href="mailto:sebastian.heckmann@outlook.com"><Image src={mailIcon} class="mailicon" alt="" width={40} placeholder="empty" />sebastian<wbr />.heckmann@outlook.com</a>
         </div>
         <div class="links">
           <h3>More</h3>

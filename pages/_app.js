@@ -4,7 +4,6 @@ import NavBar from '../components/NavBar';
 import '../styles/main.css';
 
 export default function App({ Component, pageProps }) {
-  console.log(Component.name);
   return (    
     <>
       <Head>

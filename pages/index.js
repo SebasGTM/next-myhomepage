@@ -11,9 +11,8 @@ export default function HomePage() {
       </Head>
       <main>
         <h2>
-        <Image src={frontPic} class="profilepic" alt="Picture of the author" width={240} placeholder="empty" />
-        Welcome to my Corner of the web. 
-        I'm Sebastian Heckmann and here I write about everything I like, but mainly Japan and Tech.
+        <Image src={frontPic} class="profilepic" alt="Profile pic" width={240} placeholder="empty" />
+        Hello, I'm Sebastian Heckmann and welcome to my Corner of the web.<br />
         </h2>
         <p class="large">
         This Website is just a little project to test out different webtechnologies and hosting services while also sharing some of thoughts and experiences with family, friends and colleagues.
