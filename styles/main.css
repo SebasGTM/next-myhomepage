@@ -157,7 +157,7 @@ nav a:focus {
 	text-decoration:underline;
 }
 
-/* Change the link color to #111 (black) on hover */
+
 nav > ul > li a:hover {
   background-color: #111;
 }
@@ -186,21 +186,25 @@ article .postimg {
 	margin-bottom: 18px;
 }
 
-.contact {
-	font-size: 1.8em; margin: 0.5em 0;
+.about-info h3 {
+	font-size: 1.6em; margin: 0.5em 0;
 }
 
-.contact img {
+.about-contact {
+	font-size: 1.6em; margin: 0.5em 0;
+}
+
+.about-contact img {
 	width: 1em;
 	position: relative;
 	top: .32em;
 	margin-right: .25em;
 }
 
-.links {
-	font-size: 1.8em; margin: 0.5em 0;
+.about-links {
+	font-size: 1.6em; margin: 0.5em 0;
 }
-.links img {
+.about-links img {
 	position: relative;
 	width: 70px;
 	height:auto;
