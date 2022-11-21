@@ -6,11 +6,11 @@ prevtext: "A small holy island with a lot to discover..."
 ---
 
 This small holy island can only be reached by ferry. Here you can fond a lot of nature, long mountain paths,
-free roaming deer and a big famous torii gate, which at high tide seems to float on the water. Unfortunate just as I was visiting,
+free roaming deer and a big famous torii gate, which at high tide seems to float on the water. Unfortunately just as I was visiting,
 the gate was under restoration :-( so I will have to take a picture next time.
 
 
-The ferry ride:
+The ferry ride
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_134244.jpg#postimgtype)
 
@@ -21,8 +21,9 @@ The ferry ride:
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_135033.jpg#postimgtype)
 
 
-
-A model with an overview of the island:
+***
+<br/>
+A model with an overview of the island
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_135450.jpg#postimgtype)
 
@@ -34,14 +35,16 @@ There are the free roaming deer. You can find them everywhere.
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_142207.jpg#postimgtype)
 
+***
+<br/>
 If one isn't careful while walking around with food, they might actually steal it,
 or even just the paper:
 
-
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_135851.jpg#postimgtype)
 
+***
+<br/>
 The landmarks, that you can find all around the island look all interesting:
-
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_140035.jpg#postimgtype)
 
@@ -49,6 +52,8 @@ The landmarks, that you can find all around the island look all interesting:
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_140008.jpg#postimgtype)
 
+***
+<br/>
 The town:
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_142317.jpg#postimgtype)
@@ -61,8 +66,9 @@ The town:
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_144502.jpg#postimgtype)
 
+***
+<br/>
 The mountain path:
-
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_144624.jpg#postimgtype)
 
@@ -78,6 +84,8 @@ The mountain path:
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_145301.jpg#postimgtype)
 
+***
+<br/>
 Temple area:
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_145442.jpg#postimgtype)
@@ -108,7 +116,9 @@ Temple area:
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_153508.jpg#postimgtype)
 
-Easy proof that this is the best island in Japan: German beer, lol:
+***
+<br/>
+Easy proof that this is the best island in Japan: German beer, lol
 
 ![Alt text](/static/post-media/visiting-the-island-miyajima/20191108_162639.jpg#postimgtype)
 
