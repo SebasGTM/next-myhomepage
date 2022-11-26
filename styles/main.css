@@ -197,8 +197,10 @@ article .postimg {
 .about-contact img {
 	width: 1em;
 	position: relative;
-	top: .32em;
 	margin-right: .25em;
+	width: 1.8rem;
+	height: 1.8rem;
+	top: 6px;
 }
 
 .about-links {
@@ -270,4 +272,16 @@ a.mailto:hover {
 }
 .blog-footer a:visited {  
 	color: inherit;
+}
+
+@media (max-width: 550px) {
+	.mailname {
+	  display:none;
+	}
+	.mailicon {
+		width: 5.5rem !important;
+		height: 5.5rem !important;
+		top: 0px;
+		margin-left: 40px;
+	}
 }

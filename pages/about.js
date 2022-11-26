@@ -20,7 +20,7 @@ export default function AboutPage() {
         </div>
         <div class="about-contact">
           <h3>Contact</h3>
-          <a class="mailto" href="mailto:sebastian.heckmann@outlook.com"><Image src={mailIcon} class="mailicon" alt="" width={40} placeholder="empty" />sebastian<wbr />.heckmann@outlook.com</a>
+          <a class="mailto" href="mailto:sebastian.heckmann@outlook.com"><Image src={mailIcon} class="mailicon" alt="" placeholder="empty" /><span class="mailname">sebastian<wbr />.heckmann@outlook.com</span></a>
         </div>
         <div class="about-links">
           <h3>More</h3>
