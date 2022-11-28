@@ -47,7 +47,7 @@ export default function BlogPagePage({ postData }) {
                 </Link>
                 <div>{post.prevtext}</div> 
                 <Link class="article-more" href={`/posts/${post.slug}`}>
-                  read more →
+                  read more
                 </Link>
             </article>
           ))}
