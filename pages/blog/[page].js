@@ -60,7 +60,6 @@ export default function BlogPagePage({ postData }) {
             <a class="older-posts" href={postData.pagnation.next}>older posts →</a>
           </div>
       </main>
-      <div class="blog-footer"><a href="#top">↑ Back to top ↑</a></div>
     </>
   );
 }
